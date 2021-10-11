@@ -1,0 +1,5 @@
+1. Скомпилировать interpretator.dpr
+2. Запустить compile.bat
+3. Скомпилировать bfcmp.dpr
+4. ??????
+5. PROFIT!!!
